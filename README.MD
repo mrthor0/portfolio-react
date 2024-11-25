@@ -6,10 +6,10 @@ Welcome to the personal portfolio of **Saikoushik**! This project showcases my w
 
 This portfolio is built with the following technologies:
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=ffffff) **HTML**
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=ffffff) **CSS**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=ffffff) **JavaScript**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=ffffff) **React**
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=ffffff) <br>
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=ffffff) <br>
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=ffffff) <br>
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=ffffff) <br>
 
 ## How to Run
 
@@ -23,10 +23,10 @@ This project can be hosted on GitHub Codespaces or run locally. The site will be
 3.
    ```bash
    cd clients 
-npm install -g parcel
-npm install react react-dom
-npm install
-npm start
+npm install -g parcel <br>
+npm install react react-dom <br>
+npm install react <br>
+npm start <br>
 
 
 The site will be run on port 1234. 
